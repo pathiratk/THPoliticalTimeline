@@ -1,0 +1,101 @@
+/*
+Pat Kosakanchit
+4/15/17
+CSE154
+TA: Yen Lee
+Creative Project #7 : Thailand Political Timeline
+This CSS file is the stylesheet of timeline.html.
+*/
+
+a, h2 strong, p em{
+    color: darkred;
+}
+
+body {
+    font-family: sans-serif;
+    width: 55%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 150px;
+}
+
+button {
+    width: 100%;
+    font-size: inherit;
+    padding: 10px;
+}
+
+.coup {
+    border: 5px #25422b;
+    border-style: none solid none none;
+}
+
+.coup, .revolution {
+    background-color: whitesmoke;
+    margin-bottom: 10px;
+    box-shadow: 1px 1px lightgray;
+}
+
+h1 {
+    font-size: 45px;
+    text-align: right;
+    color: dimgray;
+}
+
+h2 {
+    font-weight: normal;
+    font-size: 16px;
+}
+
+h2 strong{
+    font-size: 20px;
+}
+
+h3 {
+    margin: 10px 0px;
+    font-size: 30px;
+    color: dimgray;
+}
+
+#intro {
+    font-style: italic;
+    font-family: Georgia;
+    text-align: right;
+    color: dimgray;
+    padding-bottom: 20px;
+}
+
+#line {
+    flex-basis: 25px;
+    background-color: darkred;
+}
+
+#list {
+    display: flex;
+    flex-direction: column;
+}
+
+p {
+    padding: 10px;
+}
+
+p em{
+    font-size: 30px;
+    font-family: Georgia;
+}
+
+p strong{
+    font-style: italic;
+}
+
+#timeline {
+    display: flex;
+    justify-content: center;
+}
+
+
+
+
+
+
+
