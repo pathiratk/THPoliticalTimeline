@@ -17,9 +17,9 @@ This Javascript file is working with timeline.html to govern its behavior.
     };
 
     function currentFunc() {
-        var heading = document.createElement("h3");
-        heading.innerHTML = "2018";
-        $("currentyear").appendChild(heading);
+        // var heading = document.createElement("h3");
+        // heading.innerHTML = "2018";
+        // $("currentyear").appendChild(heading);
         
         var text = document.createElement("p");
         text.innerHTML = "Thailand's Military Junta...";
