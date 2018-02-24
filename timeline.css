@@ -11,13 +11,13 @@ a, h2 strong, p em{
     color: darkred;
 }
 
-h2, #intro {
+h1, h2, #intro, .year-heading {
     color: dimgray;
 }
 
 body {
     font-family: sans-serif;
-    width: 65%;
+    width: 55%;
     margin-left: auto;
     margin-right: auto;
     margin-bottom: 150px;
@@ -38,6 +38,7 @@ button {
     background-color: whitesmoke;
     margin-bottom: 10px;
     box-shadow: 1px 1px lightgray;
+    padding: 10px;
 }
 
 h1 {
@@ -71,10 +72,6 @@ h3 {
     background-color: darkred;
 }
 
-p {
-    padding: 10px;
-}
-
 p em{
     font-size: 30px;
     font-family: Georgia;
@@ -98,7 +95,7 @@ p strong{
     text-align: right;
     font-family: Georgia;
     font-size: 45px;
-    width: 30%
+    width: 180px
     
 }
 
