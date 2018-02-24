@@ -11,9 +11,13 @@ a, h2 strong, p em{
     color: darkred;
 }
 
+h2, #intro {
+    color: dimgray;
+}
+
 body {
     font-family: sans-serif;
-    width: 55%;
+    width: 65%;
     margin-left: auto;
     margin-right: auto;
     margin-bottom: 150px;
@@ -39,7 +43,6 @@ button {
 h1 {
     font-size: 45px;
     text-align: right;
-    color: dimgray;
 }
 
 h2 {
@@ -53,26 +56,19 @@ h2 strong{
 
 h3 {
     margin: 10px 0px;
-    font-size: 30px;
-    color: dimgray;
+    font-size: 20px;
 }
 
 #intro {
     font-style: italic;
     font-family: Georgia;
     text-align: right;
-    color: dimgray;
     padding-bottom: 20px;
 }
 
 #line {
-    flex-basis: 25px;
+    flex-basis: 0px;
     background-color: darkred;
-}
-
-#list {
-    display: flex;
-    flex-direction: column;
 }
 
 p {
@@ -90,9 +86,27 @@ p strong{
 
 #timeline {
     display: flex;
+    flex-direction: column;
     justify-content: center;
 }
 
+.year {
+    display: flex;
+}
+
+.year-heading {
+    text-align: right;
+    font-family: Georgia;
+    font-size: 45px;
+    width: 30%
+    
+}
+
+.list {
+    display: flex;
+    width: 100%;
+    flex-direction: column;
+}
 
 
 
