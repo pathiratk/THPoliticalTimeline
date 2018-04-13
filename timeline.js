@@ -13,21 +13,8 @@ This Javascript file is working with timeline.html to govern its behavior.
     var $ = function(id) { return document.getElementById(id); };
 
     window.onload = function() {
-        $("currentbutton").onclick = currentFunc;
+        $("currentbutton").onclick = alert2018;
     };
-
-    function currentFunc() {
-        // var heading = document.createElement("h3");
-        // heading.innerHTML = "2018";
-        // $("currentyear").appendChild(heading);
-        
-        var text = document.createElement("p");
-        text.innerHTML = "Thailand's Military Junta...";
-        $("currentyear").appendChild(text);
-        
-        $("currentbutton").style.display = "none";
-        setTimeout(alert2018, 500);
-    }
     
     function alert2018() {
         alert("Sorry, but when is the election again?");
