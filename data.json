@@ -2,11 +2,21 @@
   "events": [
     {
       "start_date": {
+        "year": "1932",
+      },
+      "text": {
+        "headline": "Siamese Revolution of 1932",
+        "body": "The change in political system from an absolute monarchy to a constitutional monarchy."
+      },
+      "group": "coup"
+    },
+    {
+      "start_date": {
         "year": "1933"
       },
       "text": {
         "headline": "1",
-        "body": "1st Phraya Manopakorn Nititada is forced to call for the dissolution of the People's Assembly."
+        "body": "Phraya Manopakorn Nititada is forced to call for the dissolution of the People's Assembly."
       },
       "group": "coup"
     },
