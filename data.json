@@ -1,0 +1,234 @@
+{
+  "events": [
+    {
+      "start_date": {
+        "year": "1932"
+      },
+      "text": {
+        "headline": "Siamese Revolution of 1932",
+        "body": "The change in political system from an absolute monarchy to a constitutional monarchy."
+      },
+      "group": "coup"
+    },
+    {
+      "start_date": {
+        "year": "1933"
+      },
+      "text": {
+        "headline": "1",
+        "body": "Phraya Manopakorn Nititada is forced to call for the dissolution of the People's Assembly."
+      },
+      "group": "coup"
+    },
+    {
+      "start_date": {
+        "year": "1933"
+      },
+      "text": {
+        "headline": "2",
+        "body": "Phraya Phahon Phonphayuhasena overthrows Phraya Manopakorn Nititada."
+      },
+      "group": "coup"
+    },
+    {
+      "start_date": {
+        "year": "1947"
+      },
+      "text": {
+        "headline": "3",
+        "body": "General Phin Choonhavan overthrows Thawal Thamrong Navaswadhi."
+      },
+      "group": "coup"
+    },
+    {
+      "start_date": {
+        "year": "1948"
+      },
+      "text": {
+        "headline": "4",
+        "body": "Khuang Aphaiwong is forced to resign."
+      },
+      "group": "coup"
+    },
+    {
+      "start_date": {
+        "year": "1951"
+      },
+      "text": {
+        "headline": "5",
+        "body": "Military overthrows 1949 constitution and reverts to 1932 constitution."
+      },
+      "group": "coup"
+    },
+    {
+      "start_date": {
+        "year": "1957"
+      },
+      "text": {
+        "headline": "6",
+        "body": "Sarit Thanarat overthrew Plaek Pibulsongkram"
+      },
+      "group": "coup"
+    },
+    {
+      "start_date": {
+        "year": "1958"
+      },
+      "text": {
+        "headline": "7",
+        "body": "Self-coup of Sarit Thanarat"
+      },
+      "group": "coup"
+    },
+    {
+      "start_date": {
+        "year": "1971"
+      },
+      "text": {
+        "headline": "8",
+        "body": "Self-coup of Thanom Kittikachorn"
+      },
+      "group": "coup"
+    },
+    {
+      "start_date": {
+        "year": "1976"
+      },
+      "text": {
+        "headline": "9",
+        "body": "Sangad Chaloryu overthrows Seni Pramoj"
+      },
+      "group": "coup"
+    },
+    {
+      "start_date": {
+        "year": "1977"
+      },
+      "text": {
+        "headline": "10",
+        "body": "Sangad Chaloryu overthrows Tanin Kraivixien"
+      },
+      "group": "coup"
+    },
+    {
+      "start_date": {
+        "year": "1991"
+      },
+      "text": {
+        "headline": "11",
+        "body": "Sunthorn Kongsompong overthrows Chatichai Choonhavan"
+      },
+      "group": "coup"
+    },
+    {
+      "start_date": {
+        "year": "2006"
+      },
+      "text": {
+        "headline": "12",
+        "body": "Sonthi Boonyaratglin overthrows Thaksin Shinawatra"
+      },
+      "group": "coup"
+    },
+    {
+      "start_date": {
+        "year": "2014"
+      },
+      "text": {
+        "headline": "13",
+        "body": "Prayut Chan-o-cha overthrows the government of Yingluck Shinawatra, Thaksin Shinawatra's sister."
+      },
+      "group": "coup"
+    },
+    {
+      "start_date": {
+        "year": "2014",
+        "month": "6",
+        "date": "28"
+      },
+      "text": {
+        "source": {
+          "url": "http://www.telegraph.co.uk/news/worldnews/asia/thailand/10932302/Thailands-military-rulers-plan-elections-for-October-2015.html",
+          "credit": "The Telegraph"
+        },
+        "body": "Thailand's military rulers plan elections for October 2015"
+      },
+      "group": "election2019"
+    },
+    {
+      "start_date": {
+        "year": "2014",
+        "month": "11",
+        "date": "27"
+      },
+      "text": {
+        "source": {
+          "url": "http://www.reuters.com/article/us-thailand-politics-idUSKCN0JB0AH20141127",
+          "credit": "Reuters"
+        },
+        "body": "Thai election pushed back to 2016: deputy PM"
+      },
+      "group": "election2019"
+    },
+    {
+      "start_date": {
+        "year": "2016",
+        "month": "8",
+        "date": "9"
+      },
+      "text": {
+        "source": {
+          "url": "http://www.aljazeera.com/news/2016/08/thailand-hold-elections-2017-junta-chief-160809084208337.html",
+          "credit": "Aljazeera"
+        },
+        "body": "Thailand to hold elections in 2017: military chief"
+      },
+      "group": "election2019"
+    },
+    {
+      "start_date": {
+        "year": "2017",
+        "month": "1",
+        "date": "2"
+      },
+      "text": {
+        "source": {
+          "url": "http://www.aljazeera.com/news/2017/01/thailand-legislator-general-election-delayed-170102161345073.html",
+          "credit": "Aljazeera"
+        },
+        "body": "Thailand legislator: General election will be delayed"
+      },
+      "group": "election2019"
+    },
+    {
+      "start_date": {
+        "year": "2017",
+        "month": "10",
+        "date": "10"
+      },
+      "text": {
+        "source": {
+          "url": "http://www.bbc.com/news/world-asia-41563661",
+          "credit": "BBC"
+        },
+        "body": "Thailand announces 2018 general election"
+      },
+      "group": "election2019"
+    },
+    {
+      "start_date": {
+        "year": "2018",
+        "month": "1",
+        "date": "22"
+      },
+      "text": {
+        "source": {
+          "url": "https://www.bangkokpost.com/news/politics/1400130/election-could-be-delayed-until-march-2019",
+          "credit": "Bangkok Post"
+        },
+        "body": "Election could be delayed until March 2019"
+      },
+      "group": "election2019"
+    }
+  ]
+}

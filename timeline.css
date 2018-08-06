@@ -30,11 +30,16 @@ button {
 }
 
 .coup {
-    border: 5px #25422b;
+    border: 5px #26953c;
     border-style: none solid none none;
 }
 
-.coup, .revolution {
+.election2019 {
+    border: 5px #11471e;
+    border-style: none solid none none;
+}
+
+.event {
     background-color: whitesmoke;
     margin-bottom: 10px;
     box-shadow: 1px 1px lightgray;
