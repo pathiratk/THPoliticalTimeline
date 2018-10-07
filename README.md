@@ -35,7 +35,7 @@ Currently it supports the following properties:
 * **text** object contains the follow properties:
   + *headline* - string
   + *body* - string
-  + *source* - another object containing *url* and *credit* attributes
-* **group** specifies what group of events that this event belongs too
+  + *source* - another object containing *url*(string) and *credit*(string) attributes
+* **group** specifies what group of events that this event belongs to. The value is a string.
 
 
