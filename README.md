@@ -6,13 +6,6 @@ When I was in school, it was difficult for me to see the big picture of the poli
 
 This project is built using Vanilla Javascript. 
 
-## TODO:
-- [ ] Add more events
-- [ ] Update the events to include more details
-- [ ] Implement a linear time scale 
-- [ ] Add toggle buttons for different tags
-- [ ] Add animation
-
 ## JSON data format
 ```
 {
@@ -32,7 +25,17 @@ This project is built using Vanilla Javascript.
 }
 ```
 
-*events* is a JSON array containing all the events.
-In each event object, there are *start_date*, *text*, and *group* object.
+**events** is a JSON array containing all the events.
+In each event object, there are 
+* **start_date** object contains the information about the event date. 
+Currently it supports the following properties:
+  + *year* - string
+  + *month* - string
+  + *date* - string
+* **text** object contains the follow properties:
+  + *headline* - string
+  + *body* - string
+  + *source* - another object containing *url* and *credit* attributes
+* **group** specifies what group of events that this event belongs too
 
 
