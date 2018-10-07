@@ -13,7 +13,7 @@ This Javascript file is working with timeline.html to govern its behavior.
     var $ = function(id) { return document.getElementById(id); };
 
     window.onload = function() {
-        loadContent("https://raw.githubusercontent.com/pathiratk/THPoliticalTimeline/new-timeline-design/data.json");
+        loadContent("https://raw.githubusercontent.com/pathiratk/THPoliticalTimeline/master/data.json");
         $("currentbutton").onclick = alert2018;
     };
 
