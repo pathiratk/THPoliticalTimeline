@@ -208,10 +208,10 @@
       },
       "text": {
         "source": {
-          "url": "http://www.bbc.com/news/world-asia-41563661",
-          "credit": "BBC"
+          "url": "http://www.khaosodenglish.com/politics/2017/10/10/thai-elections-november-2018-prayuth-promises/",
+          "credit": "Khaosod English"
         },
-        "body": "Thailand announces 2018 general election"
+        "body": "Thai Elections in November 2018, Prayuth Promises"
       },
       "group": "election2019"
     },
@@ -227,6 +227,36 @@
           "credit": "Bangkok Post"
         },
         "body": "Election could be delayed until March 2019"
+      },
+      "group": "election2019"
+    },
+    {
+      "start_date": {
+        "year": "2018",
+        "month": "12",
+        "date": "11"
+      },
+      "text": {
+        "source": {
+          "url": "https://www.straitstimes.com/asia/se-asia/thailands-election-commission-sets-feb-24-election-date",
+          "credit": "The Straits Times"
+        },
+        "body": "Thailand to go to the polls on Feb 24 as govt lifts ban on political activities"
+      },
+      "group": "election2019"
+    },
+    {
+      "start_date": {
+        "year": "2019",
+        "month": "1",
+        "date": "3"
+      },
+      "text": {
+        "source": {
+          "url": "https://www.straitstimes.com/asia/se-asia/thailands-election-commission-sets-feb-24-election-date",
+          "credit": "Khaosod English"
+        },
+        "body": "Coronation Could Affect #Thailand February Elections: Wissanu"
       },
       "group": "election2019"
     }
