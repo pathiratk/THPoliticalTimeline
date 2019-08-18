@@ -2,136 +2,6 @@
   "events": [
     {
       "start_date": {
-        "year": "1932"
-      },
-      "text": {
-        "headline": "Siamese Revolution of 1932",
-        "body": "The change in political system from an absolute monarchy to a constitutional monarchy."
-      },
-      "group": "coup"
-    },
-    {
-      "start_date": {
-        "year": "1933"
-      },
-      "text": {
-        "headline": "1",
-        "body": "Phraya Manopakorn Nititada is forced to call for the dissolution of the People's Assembly."
-      },
-      "group": "coup"
-    },
-    {
-      "start_date": {
-        "year": "1933"
-      },
-      "text": {
-        "headline": "2",
-        "body": "Phraya Phahon Phonphayuhasena overthrows Phraya Manopakorn Nititada."
-      },
-      "group": "coup"
-    },
-    {
-      "start_date": {
-        "year": "1947"
-      },
-      "text": {
-        "headline": "3",
-        "body": "General Phin Choonhavan overthrows Thawal Thamrong Navaswadhi."
-      },
-      "group": "coup"
-    },
-    {
-      "start_date": {
-        "year": "1948"
-      },
-      "text": {
-        "headline": "4",
-        "body": "Khuang Aphaiwong is forced to resign."
-      },
-      "group": "coup"
-    },
-    {
-      "start_date": {
-        "year": "1951"
-      },
-      "text": {
-        "headline": "5",
-        "body": "Military overthrows 1949 constitution and reverts to 1932 constitution."
-      },
-      "group": "coup"
-    },
-    {
-      "start_date": {
-        "year": "1957"
-      },
-      "text": {
-        "headline": "6",
-        "body": "Sarit Thanarat overthrew Plaek Pibulsongkram"
-      },
-      "group": "coup"
-    },
-    {
-      "start_date": {
-        "year": "1958"
-      },
-      "text": {
-        "headline": "7",
-        "body": "Self-coup of Sarit Thanarat"
-      },
-      "group": "coup"
-    },
-    {
-      "start_date": {
-        "year": "1971"
-      },
-      "text": {
-        "headline": "8",
-        "body": "Self-coup of Thanom Kittikachorn"
-      },
-      "group": "coup"
-    },
-    {
-      "start_date": {
-        "year": "1976"
-      },
-      "text": {
-        "headline": "9",
-        "body": "Sangad Chaloryu overthrows Seni Pramoj"
-      },
-      "group": "coup"
-    },
-    {
-      "start_date": {
-        "year": "1977"
-      },
-      "text": {
-        "headline": "10",
-        "body": "Sangad Chaloryu overthrows Tanin Kraivixien"
-      },
-      "group": "coup"
-    },
-    {
-      "start_date": {
-        "year": "1991"
-      },
-      "text": {
-        "headline": "11",
-        "body": "Sunthorn Kongsompong overthrows Chatichai Choonhavan"
-      },
-      "group": "coup"
-    },
-    {
-      "start_date": {
-        "year": "2006"
-      },
-      "text": {
-        "headline": "12",
-        "body": "Sonthi Boonyaratglin overthrows Thaksin Shinawatra"
-      },
-      "group": "coup"
-    },
-    {
-      "start_date": {
         "year": "2014"
       },
       "text": {
@@ -257,6 +127,36 @@
           "credit": "Khaosod English"
         },
         "body": "Coronation Could Affect Thailand February Elections: Wissanu"
+      },
+      "group": "election2019"
+    },
+    {
+      "start_date": {
+        "year": "2019",
+        "month": "2",
+        "date": "8"
+      },
+      "text": {
+        "source": {
+          "url": "https://www.bbc.com/news/world-asia-47167378",
+          "credit": "BBC"
+        },
+        "body": "Princess Ubolratana: Thai royal to stand as PM candidate"
+      },
+      "group": "election2019"
+    },
+    {
+      "start_date": {
+        "year": "2019",
+        "month": "2",
+        "date": "20"
+      },
+      "text": {
+        "source": {
+          "url": "https://www.reuters.com/article/us-thailand-election/thai-election-panel-disqualifies-princess-as-pm-candidate-idUSKCN1Q000L",
+          "credit": "Khaosod English"
+        },
+        "body": "Thai election panel disqualifies princess as PM candidate"
       },
       "group": "election2019"
     }
