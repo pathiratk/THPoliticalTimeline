@@ -14,7 +14,6 @@ This Javascript file is working with timeline.html to govern its behavior.
 
     window.onload = function() {
         loadContent("https://raw.githubusercontent.com/pathiratk/THPoliticalTimeline/master/data-coups.json");
-        $("currentbutton").onclick = alert2018;
     };
 
     function loadContent(file) {
@@ -94,10 +93,6 @@ This Javascript file is working with timeline.html to govern its behavior.
             prev = year;
         }
 
-    }
-    
-    function alert2018() {
-        alert("Another delay?");
     }
 
 })();
