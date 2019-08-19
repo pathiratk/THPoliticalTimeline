@@ -2,7 +2,9 @@
   "events": [
     {
       "start_date": {
-        "year": "2014"
+        "year": "2014",
+        "month": "5",
+        "date": "22",
       },
       "text": {
         "headline": "13",
@@ -133,6 +135,36 @@
     {
       "start_date": {
         "year": "2019",
+        "month": "1",
+        "date": "23"
+      },
+      "text": {
+        "source": {
+          "url": "https://www.theguardian.com/world/2019/jan/23/thailand-marks-stilted-return-to-democracy-with-march-election",
+          "credit": "The Guardian"
+        },
+        "body": "Thailand to hold elections on 24 March"
+      },
+      "group": "election2019"
+    },
+    {
+      "start_date": {
+        "year": "2019",
+        "month": "2",
+        "date": "7"
+      },
+      "text": {
+        "source": {
+          "url": "https://www.reuters.com/article/us-thailand-election-prayuth/thailands-junta-chief-says-he-will-run-for-pm-in-march-24-elections-idUSKCN1PX06P",
+          "credit": "Reuters"
+        },
+        "body": "Thailand's junta chief says he will run for PM in March 24 elections"
+      },
+      "group": "election2019"
+    },
+    {
+      "start_date": {
+        "year": "2019",
         "month": "2",
         "date": "8"
       },
@@ -159,6 +191,66 @@
         "body": "Thai election panel disqualifies princess as PM candidate"
       },
       "group": "election2019"
-    }
+    },
+    {
+      "start_date": {
+        "year": "2019",
+        "month": "3",
+        "date": "26"
+      },
+      "text": {
+        "source": {
+          "url": "https://www.bangkokpost.com/thailand/general/1651380/ec-late-ballots-from-nz-wont-be-counted",
+          "credit": "Bangkok Post"
+        },
+        "body": "EC: Late ballots from NZ won't be counted"
+      },
+      "group": "election2019"
+    },
+    {
+      "start_date": {
+        "year": "2019",
+        "month": "3",
+        "date": "28"
+      },
+      "text": {
+        "source": {
+          "url": "https://www.cnn.com/2019/03/26/asia/thailand-election-free-and-fair-intl/index.html",
+          "credit": "CNN"
+        },
+        "body": "Thai election 'not free and fair' says monitor group"
+      },
+      "group": "election2019"
+    },
+    {
+      "start_date": {
+        "year": "2019",
+        "month": "4",
+        "date": "1"
+      },
+      "text": {
+        "source": {
+          "url": "https://www.cnbc.com/2019/04/01/thailand-early-election-result-has-palang-pracharat-pheu-thai-leading.html",
+          "credit": "CNBC"
+        },
+        "body": "Thailand held an election more than a week ago — voters still don’t know who won"
+      },
+      "group": "election2019"
+    },
+    {
+      "start_date": {
+        "year": "2019",
+        "month": "6",
+        "date": "5"
+      },
+      "text": {
+        "source": {
+          "url": "https://www.bbc.com/news/world-asia-48537664",
+          "credit": "BBC"
+        },
+        "body": "Thai parliament elects ex military government chief Prayuth as PM"
+      },
+      "group": "election2019"
+    },
   ]
 }
