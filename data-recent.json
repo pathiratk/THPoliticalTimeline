@@ -4,7 +4,7 @@
       "start_date": {
         "year": "2014",
         "month": "5",
-        "date": "22",
+        "date": "22"
       },
       "text": {
         "headline": "13",
@@ -251,6 +251,6 @@
         "body": "Thai parliament elects ex military government chief Prayuth as PM"
       },
       "group": "election2019"
-    },
+    }
   ]
 }
